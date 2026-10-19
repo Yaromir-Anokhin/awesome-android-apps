@@ -43,6 +43,7 @@
 ## Recently Added
 | App | Category | Added | Store |
 |-----|----------|-------|-------|
+| **[`MeshLive`](https://github.com/meshlive/meshlive-android "link")** | [📨 Messaging](#messaging) | 2026-10-20 | [`[website]`](https://github.com/MeshLive/meshlive-android/releases/latest "website") |
 | **[`RF Sentinel`](https://github.com/CIS-C0/RFSentinel "link")** | [🔐 Security and Privacy](#security-and-privacy) | 2026-10-13 | [`[website]`](https://cis-c0.github.io/RFSentinel/ "website") |
 | **[`Jev for WhatsApp`](https://github.com/jev-chat/jev-chat-jarvis "link")** | [📨 Messaging](#messaging) | 2026-10-12 | [`[website]`](https://chatjevs.com "website") |
 | **[`Domiday`](https://github.com/zapal69/domiday "link")** | [🗺️ Travel & Local](#travel-and-local) | 2026-10-11 | [`[website]`](https://domiday.com "website") |
@@ -57,8 +58,6 @@
 | **[`PlainApp`](https://github.com/plainhub/plain-app "link")** | [🛠 Utilities](#utilities) | 2026-09-17 | [`[f-droid]`](https://f-droid.org/packages/com.ismartcoding.plain/ "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.ismartcoding.plain "playstore") [`[website]`](https://plainapp.app/es "website") |
 | **[`10-bit Clock Widget`](https://github.com/ashutoshgngwr/10-bitClockWidget "link")** | [🎨 Customization](#customization) | 2026-09-16 |  |
 | **[`1List`](https://github.com/lolo-io/OneList "link")** | [👩‍🔧 Productivity](#productivity) | 2026-09-16 | [`[playstore]`](https://play.google.com/store/apps/details?id=com.lolo.io.onelist "playstore") |
-| **[`2FAS Authenticator`](https://github.com/twofas/2fas-android "link")** | [🧰 Tools](#tools) | 2026-09-16 | [`[playstore]`](https://play.google.com/store/apps/details?id=com.twofasapp "playstore") |
-| **[`36krReader`](https://github.com/kinneyyan/36krReader "link")** | [📰 News & Magazines](#news-and-magazines) | 2026-09-16 |  |
 
 ## App Status
 | Status | Meaning |
@@ -512,6 +511,7 @@
 | **[`Kontalk Messenger`](https://github.com/kontalk/androidclient "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | The official Android client for the Kontalk instant messaging network. | 575 | ![last commit](https://img.shields.io/github/last-commit/kontalk/androidclient) |  |
 | **[`KouChat`](https://github.com/blurpy/kouchat-android "link")** | ![no_open_code](https://img.shields.io/badge/status-no_open_code-orange) | A serverless LAN chat application for local network communication. | 99 | ![last commit](https://img.shields.io/github/last-commit/blurpy/kouchat-android) | [`[playstore]`](https://play.google.com/store/apps/details?id=net.usikkert.kouchat.android "playstore") |
 | **[`MaterialQQLite`](https://github.com/wang4yu6peng13/MaterialQQLite "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A Material Design-style client for the QQ messaging service. (Archived) | 128 | ![last commit](https://img.shields.io/github/last-commit/wang4yu6peng13/MaterialQQLite) |  |
+| **[`MeshLive`](https://github.com/meshlive/meshlive-android "link")** |  | Free and open-source Android app for encrypted voice/video calls and live audio/video broadcasts over a Bluetooth mesh, without internet, accounts or servers; currently in beta. | ![Stars](https://badgen.net/github/stars/meshlive/meshlive-android) | ![last commit](https://img.shields.io/github/last-commit/meshlive/meshlive-android) | [`[website]`](https://github.com/MeshLive/meshlive-android/releases/latest "website") |
 | **[`Messaging (Odoo)`](https://github.com/Odoo-mobile/messaging "link")** | ![license_not_detected](https://img.shields.io/badge/status-license_not_detected-lightgrey) | The official mobile messaging client for the Odoo platform. | 62 | ![last commit](https://img.shields.io/github/last-commit/Odoo-mobile/messaging) |  |
 | **[`ProxyDroid`](https://github.com/madeye/proxydroid "link")** | ![license_not_detected](https://img.shields.io/badge/status-license_not_detected-lightgrey) | A global proxy application for Android devices. | 2,553 | ![last commit](https://img.shields.io/github/last-commit/madeye/proxydroid) |  |
 | **[`Rocket.Chat`](https://github.com/RocketChat/Rocket.Chat "link")** | ![no_open_code](https://img.shields.io/badge/status-no_open_code-orange) | A self-hostable, Slack-like online chat platform. | 46,142 | ![last commit](https://img.shields.io/github/last-commit/RocketChat/Rocket.Chat) |  |
