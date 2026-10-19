@@ -61,7 +61,7 @@
             "added": "2026-09-16"
         },
         {
-            "source": "https://github.com/meshlive/meshlive-android",
+            "source": "https://github.com/MeshLive/meshlive-android",
             "added": "2026-10-20",
             "name": "MeshLive",
             "description": "Free and open-source Android app for encrypted voice/video calls and live audio/video broadcasts over a Bluetooth mesh, without internet, accounts or servers; currently in beta.",
