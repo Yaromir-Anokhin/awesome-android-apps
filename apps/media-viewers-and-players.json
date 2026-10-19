@@ -421,6 +421,13 @@
             "description": "An unofficial client for Ximalaya FM written entirely in Kotlin. (Archived)",
             "source": "https://github.com/gs666/XimalayaKotlin",
             "added": "2026-09-16"
+        },
+        {
+            "source": "https://github.com/fancydirty/waifu-deck",
+            "added": "2026-10-20",
+            "name": "Waifu Deck",
+            "description": "A free, open-source (AGPL-3.0) Android anime art collection app that unifies 10 image boards into one deduplicated swipe deck, saves full-resolution originals locally, and optionally syncs to your own encrypted cloud storage across Cloudflare R2, Bunny, Backblaze B2, S3, WebDAV, Google Drive, and OneDrive.",
+            "website": "https://waifudeck.app"
         }
     ]
 }
