@@ -17,6 +17,13 @@
             "playstore": "https://play.google.com/store/apps/details?id=com.github.axet.bookreader"
         },
         {
+            "source": "https://github.com/dirtyfancy/easemic",
+            "added": "2026-10-19",
+            "name": "Easemic",
+            "description": "A native Android comic and manga reader built with Kotlin and Jetpack Compose that supports local CBZ/ZIP archives, self-hosted OPDS catalogs (Komga, Kavita), and client-side encrypted cloud storage streaming and backup across Cloudflare R2, WebDAV, Google Drive, and OneDrive.",
+            "website": "https://easemic.com"
+        },
+        {
             "name": "Librera Reader",
             "description": "An e-book reader for Android devices; it supports the following formats: PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX, and OPDS Catalogs.",
             "source": "https://github.com/foobnix/LibreraReader",
