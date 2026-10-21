@@ -43,6 +43,7 @@
 ## Recently Added
 | App | Category | Added | Store |
 |-----|----------|-------|-------|
+| **[`DSH Mobile`](https://github.com/pavel-logachev/dsh-mobile "link")** | [💻 Programming](#programming) | 2026-10-22 |  |
 | **[`MeshLive`](https://github.com/MeshLive/meshlive-android "link")** | [📨 Messaging](#messaging) | 2026-10-20 | [`[website]`](https://github.com/MeshLive/meshlive-android/releases/latest "website") |
 | **[`Waifu Deck`](https://github.com/fancydirty/waifu-deck "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-10-20 | [`[website]`](https://waifudeck.app "website") |
 | **[`Easemic`](https://github.com/dirtyfancy/easemic "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-10-19 | [`[website]`](https://easemic.com "website") |
@@ -57,9 +58,6 @@
 | **[`Tiny Day`](https://github.com/royalpinto007/Tiny-Day "link")** | [👩‍🔧 Productivity](#productivity) | 2026-09-18 |  |
 | **[`OnePlayer`](https://github.com/googol-apps/oneplayer "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-09-17 | [`[f-droid]`](https://apt.izzysoft.de/fdroid/index/apk/com.googol.android.apps.oneplayer "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.googol.android.apps.oneplayer "playstore") |
 | **[`PingOff`](https://gitlab.com/juanitobananas/ping-off "link")** | [🛠 Utilities](#utilities) | 2026-09-17 | [`[f-droid]`](https://f-droid.org/packages/com.jarsilio.android.pingoff/ "f-droid") |
-| **[`PlainApp`](https://github.com/plainhub/plain-app "link")** | [🛠 Utilities](#utilities) | 2026-09-17 | [`[f-droid]`](https://f-droid.org/packages/com.ismartcoding.plain/ "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.ismartcoding.plain "playstore") [`[website]`](https://plainapp.app/es "website") |
-| **[`10-bit Clock Widget`](https://github.com/ashutoshgngwr/10-bitClockWidget "link")** | [🎨 Customization](#customization) | 2026-09-16 |  |
-| **[`1List`](https://github.com/lolo-io/OneList "link")** | [👩‍🔧 Productivity](#productivity) | 2026-09-16 | [`[playstore]`](https://play.google.com/store/apps/details?id=com.lolo.io.onelist "playstore") |
 
 ## App Status
 | Status | Meaning |
@@ -654,6 +652,7 @@
 
 | App | Status | Description | Stars | Last commit | Links |
 |-----|--------|-------------|-------|-------------|-------|
+| **[`DSH Mobile`](https://github.com/pavel-logachev/dsh-mobile "link")** |  | Native Android client for DeepSeek Harness: the AI agent keeps running on your own computer, and the phone controls it. Browse chats of all projects, send tasks with photos and files, follow live replies, steer the agent and answer its questions. QR pairing over Wi-Fi or Tailscale, no cloud, no Google services. | ![Stars](https://badgen.net/github/stars/pavel-logachev/dsh-mobile) | ![last commit](https://img.shields.io/github/last-commit/pavel-logachev/dsh-mobile) |  |
 | **[`Termux`](https://github.com/termux/termux-app "link")** | ![no_open_code](https://img.shields.io/badge/status-no_open_code-orange) | An Android terminal emulator and Linux environment app that works directly with no rooting or setup required. A minimal base system is installed automatically - additional packages are available using the APT package manager. | 61,009 | ![last commit](https://img.shields.io/github/last-commit/termux/termux-app) | [`[f-droid]`](https://f-droid.org/packages/com.termux "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.termux "playstore") [`[website]`](https://termux.com "website") |
 
 [**`^ back to top ^`**](#title)
