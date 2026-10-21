@@ -3,6 +3,12 @@
     "emoji": "\ud83d\udcbb",
     "apps": [
         {
+            "name": "DSH Mobile",
+            "description": "Native Android client for DeepSeek Harness: the AI agent keeps running on your own computer, and the phone controls it. Browse chats of all projects, send tasks with photos and files, follow live replies, steer the agent and answer its questions. QR pairing over Wi-Fi or Tailscale, no cloud, no Google services.",
+            "source": "https://github.com/pavel-logachev/dsh-mobile",
+            "added": "2026-10-22"
+        },
+        {
             "name": "Termux",
             "description": "An Android terminal emulator and Linux environment app that works directly with no rooting or setup required. A minimal base system is installed automatically - additional packages are available using the APT package manager.",
             "source": "https://github.com/termux/termux-app",
