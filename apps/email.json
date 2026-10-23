@@ -3,6 +3,14 @@
     "emoji": "\ud83d\udce7",
     "apps": [
         {
+            "name": "Aster Mail",
+            "description": "End-to-end encrypted email app with post-quantum protection between Aster accounts, PGP, aliases and custom domains. The free plan includes 10 GB of storage.",
+            "source": "https://github.com/Aster-Privacy/Aster-Android",
+            "added": "2026-10-23",
+            "playstore": "https://play.google.com/store/apps/details?id=org.astermail.android",
+            "website": "https://astermail.org"
+        },
+        {
             "name": "FairEmail",
             "description": "Fully featured, open source, privacy oriented email app for Android. FairEmail is easy to setup and works with virtually all email providers, including Gmail, Outlook and Yahoo!",
             "source": "https://github.com/M66B/FairEmail",

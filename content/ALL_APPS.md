@@ -43,6 +43,7 @@
 ## Recently Added
 | App | Category | Added | Store |
 |-----|----------|-------|-------|
+| **[`Aster Mail`](https://github.com/Aster-Privacy/Aster-Android "link")** | [📧 Email](#email) | 2026-10-23 | [`[playstore]`](https://play.google.com/store/apps/details?id=org.astermail.android "playstore") [`[website]`](https://astermail.org "website") |
 | **[`DSH Mobile`](https://github.com/pavel-logachev/dsh-mobile "link")** | [💻 Programming](#programming) | 2026-10-22 |  |
 | **[`MeshLive`](https://github.com/MeshLive/meshlive-android "link")** | [📨 Messaging](#messaging) | 2026-10-20 | [`[website]`](https://github.com/MeshLive/meshlive-android/releases/latest "website") |
 | **[`Waifu Deck`](https://github.com/fancydirty/waifu-deck "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-10-20 | [`[website]`](https://waifudeck.app "website") |
@@ -57,7 +58,6 @@
 | **[`Holdfast`](https://github.com/royalpinto007/Holdfast "link")** | [🔐 Security and Privacy](#security-and-privacy) | 2026-09-18 |  |
 | **[`Tiny Day`](https://github.com/royalpinto007/Tiny-Day "link")** | [👩‍🔧 Productivity](#productivity) | 2026-09-18 |  |
 | **[`OnePlayer`](https://github.com/googol-apps/oneplayer "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-09-17 | [`[f-droid]`](https://apt.izzysoft.de/fdroid/index/apk/com.googol.android.apps.oneplayer "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.googol.android.apps.oneplayer "playstore") |
-| **[`PingOff`](https://gitlab.com/juanitobananas/ping-off "link")** | [🛠 Utilities](#utilities) | 2026-09-17 | [`[f-droid]`](https://f-droid.org/packages/com.jarsilio.android.pingoff/ "f-droid") |
 
 ## App Status
 | Status | Meaning |
@@ -204,6 +204,7 @@
 
 | App | Status | Description | Stars | Last commit | Links |
 |-----|--------|-------------|-------|-------------|-------|
+| **[`Aster Mail`](https://github.com/Aster-Privacy/Aster-Android "link")** |  | End-to-end encrypted email app with post-quantum protection between Aster accounts, PGP, aliases and custom domains. The free plan includes 10 GB of storage. | ![Stars](https://badgen.net/github/stars/Aster-Privacy/Aster-Android) | ![last commit](https://img.shields.io/github/last-commit/Aster-Privacy/Aster-Android) | [`[playstore]`](https://play.google.com/store/apps/details?id=org.astermail.android "playstore") [`[website]`](https://astermail.org "website") |
 | **[`FairEmail`](https://github.com/M66B/FairEmail "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | Fully featured, open source, privacy oriented email app for Android. FairEmail is easy to setup and works with virtually all email providers, including Gmail, Outlook and Yahoo! | 4,636 | ![last commit](https://img.shields.io/github/last-commit/M66B/FairEmail) | [`[f-droid]`](https://f-droid.org/en/packages/eu.faircode.email "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=eu.faircode.email "playstore") [`[website]`](https://email.faircode.eu "website") |
 | **[`K-9`](https://github.com/k9mail/k-9 "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | An open source email client focused on making it easy to chew through large volumes of email. | 14,009 | ![last commit](https://img.shields.io/github/last-commit/k9mail/k-9) | [`[f-droid]`](https://f-droid.org/packages/com.fsck.k9 "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.fsck.k9 "playstore") [`[website]`](https://k9mail.app "website") |
 
